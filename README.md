@@ -1,1 +1,0 @@
-# typingGame.github.io
